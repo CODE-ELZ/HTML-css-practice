@@ -53,6 +53,7 @@ hr {
   border-color: #734488;
   border-width: 10px;
   width: 5%;
+  margin: 5rem auto;
 }
 h1 {
   font-size: 5.625rem;/*100% = 16px = 1em , 90px/16 = 562.5% = 5.625em/rem */
